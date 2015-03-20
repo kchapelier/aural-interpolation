@@ -1,9 +1,8 @@
 {
   "name": "aural-interpolation",
   "version": "1.0.0",
-  "description": "Interpolation library, aimed for audio.",
+  "description": "Interpolation library, aimed for audio-related processing.",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "check": "gulp lint; gulp codestyle; exit 0",
     "test": "gulp test"

@@ -2,10 +2,11 @@
 
 [![Build Status](https://travis-ci.org/kchapelier/aural-interpolation.svg)](https://travis-ci.org/kchapelier/aural-interpolation) [![NPM version](https://badge.fury.io/js/aural-interpolation.svg)](http://badge.fury.io/js/aural-interpolation)
 
+Interpolation library, aimed for audio-related processing.
+
 ## Intent
 
-This library provides multiple types of interpolation (linear, cosine and cubic) on a "wrapping" array.
-This is particularily useful for the manipulation of audio buffers, waveshapers shapes and fixed enveloppes.
+This library provides multiple types of interpolation (linear, cosine and cubic) on a "wrapping" array. This is particularily useful for the manipulation of audio buffers, waveshapers shapes and fixed enveloppes.
 
 ## Installing and testing
 
@@ -33,7 +34,7 @@ npm test
 
 ## Changelog
 
-## 1.0.0 (2015.03.20) :
+### 1.0.0 (2015.03.20) :
 
 * First implementation.
 
@@ -41,7 +42,7 @@ npm test
 
 ## Roadmap
 
-* ...
+* TBD
 
 ## License
 
