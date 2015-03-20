@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+node_modules
+
+# *storm IDE
+.idea
+
+# Folder for personal notes
+notes
+
+# plato reports
+reports
